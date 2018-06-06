@@ -1,5 +1,5 @@
 /**
- * Help for draw canvas | https://github.com/ne3nay
+ * Help for draw canvas | https://github.com/ne3nay/cvs
  * @author Alexandr Bochkovskiy <prizrak666@yahoo.com>
  * @version 4.0.0
  * @constructor
